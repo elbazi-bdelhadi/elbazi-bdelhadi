@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbazi-abdelhadi&show_icons=true&locale=en&layout=compact" alt="elbazi-abdelhadi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elbazi-abdelhadi&" alt="elbazi-abdelhadi" /></p>
+
