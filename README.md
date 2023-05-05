@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm ELBAZI ABDELHADI</h1>
 <h3 align="center">DATA SCIENCE STUDENT at INPT</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elbazi-abdelhadi" alt="elbazi-abdelhadi" /></a> </p>
+
 
 - 🌱 I’m currently learning **Deep Learning & Machine Learning**
 
 - 📫 How to reach me **elbazi.abdelhadi@inemail.ine.inpt.ma & elbaziabdo9@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
