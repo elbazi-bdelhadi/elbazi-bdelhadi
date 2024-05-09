@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning & Machine Learning**
 
-- 📫 How to reach me **elbazi.abdelhadi@inemail.ine.inpt.ma & elbaziabdo9@gmail.com**
+- 📫 How to reach me ** elbaziabdo9@gmail.com**
 
 
 
